@@ -16,6 +16,8 @@ A simple sum calculator script in Go that adds two numbers input by the user.
 ## Example
 
 Input: First number, please: 10 Second number, please: 20
+
+
 Output: Your sum is 30
 
 
