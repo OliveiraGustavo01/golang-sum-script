@@ -1,6 +1,6 @@
-# Simple Sum Calculator in Go
+# Simple Calculator in Go
 
-A simple sum calculator script in Go that adds two numbers input by the user.
+A simple calculator script in Go.
 
 ## How to Use
 
@@ -11,7 +11,9 @@ A simple sum calculator script in Go that adds two numbers input by the user.
 
 2. Enter two numbers when prompted.
 
-3. The program will display the sum of the two numbers.
+3. Select operation type. 
+
+4. The program will display the result of the two numbers.
 
 ## Example
 
@@ -20,10 +22,12 @@ Input:
     * First number, please: 10 
     
     * Second number, please: 20
+    
+    * Choose an operation (+, -, *, /):  (+, -, *, /): +
 
 
 Output: 
 
-    * Your sum is 30
+    * Your result is 30
 
 
